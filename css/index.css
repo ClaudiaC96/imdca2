@@ -1,0 +1,60 @@
+h1, h2, h3, h4, h5, p {
+    font-weight: lighter;
+}
+
+.row {
+    width: 100%;
+}
+
+.box {
+    margin: 1%;
+    border-radius: 1%;
+}
+
+.box-content {
+    display: none;
+}
+
+
+.box > .btn-lg {
+    width: 100%;
+    height: 100%;
+}
+
+.container1 {
+    width: 70%;
+    height: 70%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+h3 > a {
+    color: black;
+}
+
+
+
+
+
+
+.button-container {
+    padding-bottom: 10%;
+}
+
+.contact-me p > a {
+    color: white;
+}
+
+.contact-me a > i {
+    color: white;
+}
+
+.clse-btn {
+    position: fixed;
+    top: 15%;
+    right: 17%;
+}
+
+.contact-me-row {
+    margin-top: 5%;
+}
